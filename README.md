@@ -288,10 +288,7 @@ jpmc-inspo-credit-risk-system/
 │   ├── executive_business_report.md  # Executive summary and recommendations
 │   ├── feature_importance.csv        # Top risk factors analysis
 │   └── model_evaluation_report.txt   # Technical performance analysis
-└── docs/                            # Additional documentation
-    ├── API_documentation.md          # API integration guide
-    ├── deployment_guide.md           # Production deployment instructions
-    └── user_manual.md               # End-user operation manual
+
 ```
 
 ### 🏃‍♂️ Quick Start Guide
