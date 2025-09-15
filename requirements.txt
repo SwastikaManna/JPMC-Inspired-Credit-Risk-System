@@ -1,0 +1,27 @@
+
+# JPMorgan Chase Credit Risk Assessment System - Dependencies
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Interactive Dashboard
+streamlit>=1.25.0
+plotly>=5.15.0
+
+# Machine Learning Model Persistence
+joblib>=1.2.0
+
+# Additional Utilities
+datetime
+warnings
+os
+random
+
+# Optional: For enhanced features
+# xgboost>=1.6.0
+# lightgbm>=3.3.0
+# shap>=0.41.0
