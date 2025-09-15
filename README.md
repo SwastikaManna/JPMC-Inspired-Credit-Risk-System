@@ -9,6 +9,9 @@ The **JPMorgan Chase  Inspired Credit Risk Scoring & Default Prediction System**
 - **380% ROI** in first year with $4.1M projected annual benefits
 - **Sub-60 second** decision capability for real-time loan processing
 
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/bd7b9298-4646-401d-a85c-0133c0124a98" />
+
+
 The system addresses critical business challenges including high false positive rates, manual review inefficiencies, and the need for data-driven decision making in credit assessment, providing JPMorgan Chase with a competitive advantage in the lending market.
 
 ---
@@ -62,6 +65,8 @@ Financial institutions face unprecedented challenges in credit risk assessment, 
 - **Hyperparameter Optimization**: Grid search with business-focused parameter tuning
 - **Model Selection**: ROC-AUC based selection with business impact consideration
 
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/79f30a0b-6506-4138-badd-1dc616d6f881" />
+
 #### **4. Comprehensive Evaluation Framework**
 - **Statistical Metrics**: Accuracy, Precision, Recall, F1-Score, ROC-AUC across multiple thresholds
 - **Business Metrics**: Approval rates, false positive costs, revenue impact analysis
@@ -99,6 +104,9 @@ Financial institutions face unprecedented challenges in credit risk assessment, 
 - **Financial Analysis**: ROI calculation, cost-benefit analysis, profit maximization
 - **Regulatory Compliance**: Model governance, documentation, audit preparation
 - **Stakeholder Communication**: Executive reporting, technical documentation, business case development
+
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/2c7d89b1-29a6-4d52-b2c5-aaba08082643" />
+
 
 ---
 
@@ -146,6 +154,9 @@ Financial institutions face unprecedented challenges in credit risk assessment, 
 3. **Performance Monitoring**: Establish daily tracking and weekly performance reviews
 4. **Customer Experience Enhancement**: Reduce approval times to <2 minutes
 
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/e549edee-f39e-4113-ac70-2704998db755" />
+
+
 #### **Medium-term Enhancement (90-180 Days)**
 1. **Advanced Feature Integration**: Incorporate alternative data sources (rent, utilities)
 2. **Segment-Specific Models**: Develop specialized models for prime vs subprime segments
@@ -159,6 +170,8 @@ Financial institutions face unprecedented challenges in credit risk assessment, 
 4. **Industry Leadership**: Position as benchmark for credit risk innovation
 
 ### **Risk Mitigation & Governance**
+
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/b3cc842f-b362-4136-9781-ba72a33d705a" />
 
 #### **Model Risk Management**
 - **Quarterly Validation**: Comprehensive performance review and model health checks
