@@ -1,13 +1,6 @@
-
-# JPMorgan Chase Credit Risk Scoring & Default Prediction System 🏦
-
-*Enterprise-Grade Machine Learning Solution for Credit Risk Assessment*
-
----
-
 ## 📋 Executive Summary
 
-The **JPMorgan Chase Credit Risk Scoring & Default Prediction System** is a comprehensive, production-ready machine learning platform designed to assess loan default risk across personal lending portfolios. This system leverages advanced statistical modeling, feature engineering, and predictive analytics to provide real-time credit risk assessment with exceptional accuracy and business value.
+The **JPMorgan Chase  Inspired Credit Risk Scoring & Default Prediction System** is a comprehensive, production-ready machine learning platform designed to assess loan default risk across personal lending portfolios. This system leverages advanced statistical modeling, feature engineering, and predictive analytics to provide real-time credit risk assessment with exceptional accuracy and business value.
 
 **Key Achievements:**
 - **75.98% ROC-AUC** with Logistic Regression model achieving superior performance
@@ -188,8 +181,8 @@ Financial institutions face unprecedented challenges in credit risk assessment, 
 #### **Phase 1: System Setup (Week 1-2)**
 ```bash
 # Quick Start Commands
-git clone https://github.com/yourusername/jpmorgan-credit-risk-system.git
-cd jpmorgan-credit-risk-system
+git clone https://github.com/SwastikaManna/JPMC-Inspired-Credit-Risk-System.git
+cd JPMC-Inspired-credit-risk-system
 pip install -r requirements.txt
 python main_credit_risk_system.py
 ```
@@ -260,7 +253,7 @@ streamlit run credit_risk_dashboard.py
 ## 📁 Project Architecture
 
 ```
-jpmorgan-credit-risk-system/
+jpmc-inspo-credit-risk-system/
 ├── README.md                          # This comprehensive documentation
 ├── requirements.txt                   # Python dependencies and versions
 ├── main_credit_risk_system.py         # Main execution pipeline
@@ -288,30 +281,12 @@ jpmorgan-credit-risk-system/
     └── user_manual.md               # End-user operation manual
 ```
 
----
-
-**🏆 Built with Excellence for Enterprise Credit Risk Management**
-
-*© 2025 JPMorgan Chase & Co. - Advanced Analytics & Machine Learning Division*
-
----
-
-### 🔗 Quick Access Links
-- [Interactive Dashboard](http://localhost:8501) (post-setup)
-- [Business Intelligence Reports](./reports/)
-- [Technical Documentation](./docs/)
-- [Model Performance Analysis](./models/)
-
-**Status: ✅ Production Ready | Performance: ⭐ Industry Leading | Last Updated: September 2025**
-
----
-
 ### 🏃‍♂️ Quick Start Guide
 
 1. **Clone & Setup**
    ```bash
-   git clone https://github.com/yourusername/jpmorgan-credit-risk-system.git
-   cd jpmorgan-credit-risk-system
+   git clone https://github.com/SwastikaManna/JPMC-Inspired-Credit-Risk-System.git
+   cd JPMC-Inspired-Credit-Risk-System
    pip install -r requirements.txt
    ```
 
